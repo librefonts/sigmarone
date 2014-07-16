@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="SigmarOne.otf.GlyphOrder.ttx"/>
+  <head src="SigmarOne.otf._h_e_a_d.ttx"/>
+  <hhea src="SigmarOne.otf._h_h_e_a.ttx"/>
+  <maxp src="SigmarOne.otf._m_a_x_p.ttx"/>
+  <OS_2 src="SigmarOne.otf.O_S_2f_2.ttx"/>
+  <name src="SigmarOne.otf._n_a_m_e.ttx"/>
+  <cmap src="SigmarOne.otf._c_m_a_p.ttx"/>
+  <post src="SigmarOne.otf._p_o_s_t.ttx"/>
+  <CFF src="SigmarOne.otf.C_F_F_.ttx"/>
+  <FFTM src="SigmarOne.otf.F_F_T_M_.ttx"/>
+  <GDEF src="SigmarOne.otf.G_D_E_F_.ttx"/>
+  <GPOS src="SigmarOne.otf.G_P_O_S_.ttx"/>
+  <GSUB src="SigmarOne.otf.G_S_U_B_.ttx"/>
+  <hmtx src="SigmarOne.otf._h_m_t_x.ttx"/>
+  <kern src="SigmarOne.otf._k_e_r_n.ttx"/>
+</ttFont>
